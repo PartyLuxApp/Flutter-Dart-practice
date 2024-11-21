@@ -1,2 +1,3 @@
 # Flutter-Dart-practice
-Used for note taking
+
+This is my update to the readme file
